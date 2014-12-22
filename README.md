@@ -35,9327 +35,11088 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The herball or Generall historie of plantes. Gathered by Iohn Gerarde of London Master in Chirurgeri
+VIRIS PRVDENTIA, VIRTVTE, ARTE, RERVMQVE VSV SPECTATISSIMIS, DIGNISSIMIS
+RICHARDO EDWARDS RECTORI, S
+1. TO THE RIGHT HONORABLE HIS SINGVLAR GOOD LORD AND MASTER, SIR WILLIAM CECIL KNIGHT, BARON OF Burghley, Master of the Court of Wards and Liueries, Chancellor of the Vniuersitie of Cambridge, Knight of the most noble Order of the Garter, one of the Lords of her Maiesties most honorable Priuy Councell, and Lord high Treasurer of England.
+
+1. LANCELOTVS BRVNIVS MEDICVS REGINEVS IOHANNI GERARDO Chirurgo peritissimo, & rei Herbariae callentissimo S. P. D.
+
+1. MATTHIAS DE L'OBEL IOHANNI GERARDO felicitatem.
+
+1. In GERARDI Botanologian 〈 in non-Latin alphabet 〉.
+
+1. Ad Iohannem Gerardum Chirurgum Herbariumque peritissimum.
+
+1. In historiam plantarum, Io. Gerardi ciuis & Chirurgi Londinensis, M. Iacobi Ihonstonij Scoti Ballinerifae Regij pagi portionarij Epigramma.
+
+1. In Plantarum historiam, a solertissimo viro, Reique Herbariae peritissimo, D. Iohanne Gerardo, Anglice editam Epigramma.
+
+1. Thomas Newtonus, Cestreshyrius, D. Io. Gerardo, amico non vulgari, S.
+
+1. To the well affected Reader and peruser of this Booke, St. Bredwell Physition, greeting.
+
+1. George Baker, one of her Maiesties chiefe Chirurgions in ordinarie, and M. of the Chirurgions of the Citie of London, to the Reader.
+
+1. To the courteous and well willing Readers.
+
+1. TO THE READER.
+
+1. A Catalogue of Additions.
+
 #####Body#####
 
-1. ¶ The Description.
+1. THE FIRST BOOKE OF THE HISTORIE OF PLANTS: Containing Grasses, Rushes, Reeds, Corne, Flags, and Bulbous, or Onion-rooted Plants.
 
-1. ¶ The Place.
+    _ CHAP. 1. Of Medow-Grasse.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 2. Of Red Dwarfe-Grasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ‡ ¶ The Names in particular.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ‡ ¶ The Names in particular.
+
+      * ¶ The Nature and Vertues.
 † The first figure was onely a varietie of the second, according to 〈◊〉; yet in my iudgement it was 
-1. ¶ The Description.
+    _ CHAP. 3. Of Corne-Grasse.
 
-1. ¶ The Place and Time.
+      * ¶ The Description.
 
-1. The Names.
+      * ¶ The Place and Time.
 
-1. ¶ The Temperature and Vertues.
+      * The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place, 〈◊〉, Nature, and Vertues.
+    _ CHAP. 4. Of Millet Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place, 〈◊〉, Nature, and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 5. Of Darnell Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Time and Place.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Description.
+    _ CHAP. 6. Of Feather-top, Ferne, and Wood-grasse.
 
-1. ¶ The Place and Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Time and Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place and Time.
+    _ CHAP. 7. Of great Fox-taile Grasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place and Time.
 
-1. ¶ The Place, Time, and Names.
+      * ¶ The Names.
 
-1. ¶ The Description.
+    _ CHAP. 8. Of Great Cats-taile Grasse.
 
-1. ¶ The Place and Time.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place and Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+    _ CHAP. 9. Of Cyperus Grasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place, Time, and Names.
 
-1. ¶ The Place, Time, and Names.
+    _ CHAP. 10. Of Water-Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place and Time.
+      * ¶ The Place and Time.
 
-1. ¶ The Names and Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 11. Of Flote-Grasse.
 
-1. ¶ The Place and Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+    _ CHAP. 12. Of Kneed-Grasse.
 
-1. ¶ The Place, Time, and Names.
+      * ¶ The Description.
 
-1. ¶ Their Nature and Vertues.
+      * ¶ The Place, Time, and Names.
 
-1. ¶ The Description.
+    _ CHAP. 13. Of Bearded Panicke Grasse.
 
-1. ¶ The Place, Time, Names, Nature, and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place and Time.
 
-1. ¶ The Place.
+      * ¶ The Names and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 14. Of Hedge-hog Grasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place and Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place, Time, Names, Nature, and Vertues.
+    _ CHAP. 15. Of Hairy Wood-〈◊〉.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place, Time, and Names.
 
-1. ¶ The Names.
+      * ¶ Their Nature and Vertues.
 
-1. ¶ The Nature and Vertues.
+    _ CHAP. 16. Of Sea Spike-Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place and Time.
+      * ¶ The Place, Time, Names, Nature, and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 17. Of Couch-Grasse, or Dogs-grasse.
 
-1. ¶ The 〈◊〉
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place and Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temper and Vertue.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 18. Of Sea Dogs-Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place and time.
+      * ¶ The Place, Time, Names, Nature, and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 19. Of vpright Dogs-Grasse.
 
-1. The nature and vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The place and time.
+      * ¶ The Names.
 
-1. ¶ The name in generall.
+      * ¶ The Nature and Vertues.
 
-1. ‡ ¶ The names in particular.
+    _ CHAP. 20. Of Dew-Grasse.
 
-1. ¶ The nature.
+      * ¶ The Description.
 
-1. ¶ The vertues.
+      * ¶ The Place and Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The 〈◊〉 and vertues.
+      * ¶ The 〈◊〉
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ ¶ CHAP. 21. Of diuers Cyperus Grasses.
 
-1. ¶ Their temper and vertue.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The Place and Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The temperature and vertues.
+      * ¶ The Temper and Vertue.
 
-1. ¶ The Names.
+    _ ‡ CHAP. 22. Of diuers other Grasses.
 
-1. ¶ The temperature and vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+    _ CHAP. 23. Of Cotton Grasse.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place and time.
 
-1. ¶ The Nature and vertues.
+      * ¶ The Names.
 
-1. ¶ The kindes.
+      * The nature and vertues.
 
-1. ¶ The Description.
+    _ CHAP. 24. Of English Galingale.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The time.
+      * ¶ The place and time.
 
-1. ¶ The Names.
+      * ¶ The name in generall.
 
-1. ¶ The nature.
+      * ‡ ¶ The names in particular.
 
-1. ¶ The vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ ‡ CHAP. 25. Of Jtalian Trasi, or Spanish Galingale.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The 〈◊〉 and vertues.
 
-1. ¶ The Nature and vertues. 
+    _ ‡ CHAP. 26. Of the true Galingale, the greater and the lesser.
 
-1. ¶ The vse.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ Their temper and vertue.
 
-1. ¶ The time.
+    _ ‡ CHAP. 27. Of Turmericke.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The Nature and vertues.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The temperature and vertues.
 
-1. ¶ The time.
+    _ CHAP. 28. Of Zedoarie.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The nature, vertues, and vse.
+      * ¶ The temperature and vertues.
 
-1. ¶ The kindes.
+    _ CHAP. 29. Of Rushes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and vertues.
 
-1. ¶ The temperature, vertues, and vse.
+    _ CHAP. 30. Of Reeds.
 
-1. ¶ The Description.
+      * ¶ The kindes.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The temper.
+      * ¶ The Names.
 
-1. ¶ The vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ CHAP. 31. Of Sugar Cane.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The temperature.
+      * ¶ The time.
 
-1. ¶ The vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and vertues. 
 
-1. ¶ The place.
+      * ¶ The vse.
 
-1. ¶ The time.
+    _ CHAP. 32. Of Flowring Reed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The nature.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The Nature and vertues.
 
-1. ¶ The time.
+    _ CHAP. 33. Of Paper Reed.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The nature.
+      * ¶ The time.
 
-1. ¶ The vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The nature, vertues, and vse.
 
-1. ¶ The place.
+    _ CHAP. 34. Of Mat-Weed.
 
-1. ¶ The time.
+      * ¶ The kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The nature.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The temperature, vertues, and vse.
 
-1. ¶ The place.
+    _ CHAP. 35. Of Camels Hay.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The nature.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The temper.
 
-1. ¶ The time.
+      * ¶ The vertues.
 
-1. ¶ The Names.
+    _ CHAP. 36. Of Burre-Reed.
 
-1. ¶ The nature.
+      * ¶ The Description.
 
-1. ¶ The vertues.
+      * ¶ The place.
 
-1. ¶ The Description.
+      * ¶ The time.
 
-1. ¶ The place.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The temperature.
 
-1. ¶ The Names.
+      * ¶ The vertues.
 
-1. ¶ Their nature and vertues.
+    _ CHAP. 37. Of Cats Taile.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The nature.
 
-1. ¶ The vertues.
+      * ¶ The vertues.
 
-1. ¶ The Description.
+    _ CHAP. 38. Of Stitchwort.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The nature.
+      * ¶ The Names.
 
-1. ¶ The vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ CHAP. 39. Of Spiderwort.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The nature of the true Acorus, or our sweet garden Flag.
+      * ¶ The time.
 
-1. ¶ The vertues of the same.
+      * ¶ The Names.
 
-1. ¶ The choice.
+      * ¶ The nature.
 
-1. ¶ The faculties of the true Calamus out of Dioscorides.
+      * ¶ The vertues.
 
-1. ¶ The Description.
+    _ CHAP. 40. Of the Floure de-luce.
 
-1. ¶ The place.
+      * ¶ The kindes.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The nature.
+      * ¶ The Names.
 
-1. ¶ The vertues. 
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ CHAP. 40. Of Floure de-luce of Florence.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The temperature.
+      * ¶ The time.
 
-1. ¶ The vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The nature.
 
-1. ¶ The place.
+      * ¶ The vertues.
 
-1. ¶ The time.
+    _ CHAP. 42. Of Variable Floure de-luces.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The temper.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ Their nature and vertues.
 
-1. ¶ The time.
+    _ CHAP. 43. Of stinking Gladdon.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The temperature.
+      * ¶ The nature.
 
-1. ¶ The vertues.
+      * ¶ The vertues.
 
-1. ¶ The Description.
+    _ CHAP. 44. Of Ginger.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ‡ ¶ The place.
+    _ CHAP. 45. Of Aromaticall Reeds.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The nature.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The nature of the true Acorus, or our sweet garden Flag.
 
-1. ¶ The vertues.
+      * ¶ The vertues of the same.
 
-1. The description.
+      * ¶ The choice.
 
-1. ‡ ¶ The time and place.
+      * ¶ The faculties of the true Calamus out of Dioscorides.
 
-1. ¶ The Names.
+    _ CHAP. 46. Of Corne.
 
-1. ¶ The Nature and vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The Description.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The nature.
 
-1. ¶ The time.
+      * ¶ The vertues. 
 
-1. ¶ The Names.
+    _ CHAP. 47. Of Rie.
 
-1. ¶ The temperature.
+      * ¶ The Description.
 
-1. ¶ The 〈◊〉.
+      * ¶ The place.
 
-1. ¶ The Danger.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The temperature.
 
-1. ¶ The time.
+      * ¶ The vertues.
 
-1. ¶ The Names.
+    _ CHAP. 48. Of Spelt Corne.
 
-1. ¶ The temperature and vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The temper.
 
-1. ¶ The temper.
+      * ¶ The vertues.
 
-1. ¶ The vertues.
+    _ CHAP. 49. Of Starch Corne.
 
-1. ¶ The kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+    _ CHAP. 50. Of Barley.
 
-1. ¶ The temperature and vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The Names.
 
-1. ¶ The time.
+      * ¶ The temperature.
 
-1. ¶ The Names.
+      * ¶ The vertues.
 
-1. ¶ The temperature and vertues.
+    _ CHAP. 51. Of Naked Barley.
 
-1. ¶ The kindes.
+      * ¶ The Description.
 
-1. ¶ The descrip tin.
+      * ¶ The place.
 
-1. ¶ The place and time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The vertues.
 
-1. ¶ The temperature.
+    _ CHAP. 52. Of Wall Barley.
 
-1. ¶ The vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ CHAP. 53. Of Saint Peters Corne.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ‡ ¶ The place.
 
-1. ¶ The Nature and vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The nature.
 
-1. ¶ The place.
+      * ¶ The vertues.
 
-1. ¶ The time.
+    _ CHAP. 54. Of Otes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The temperature and vertues.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The place.
+    _ CHAP. 55. Of Wilde Otes.
 
-1. ¶ The time.
+      * The description.
 
-1. ¶ The Names.
+      * ‡ ¶ The time and place.
 
-1. ¶ The Nature and vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and vertues.
 
-1. ¶ The place.
+    _ CHAP. 56. Of Bearded Wilde Otes.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+    _ CHAP. 57. Of Burnt Corne.
 
-1. ¶ The temper.
+      * ¶ The Description.
 
-1. ¶ The vertues.
+    _ CHAP. 58. Of Darnell.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Danger.
+      * ¶ The temperature.
 
-1. ¶ The Description.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Description.
+      * ¶ The Danger.
 
-1. ¶ The place.
+    _ CHAP. 59. Of Rice.
 
-1. ¶ The time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The Nature and vertues.
+      * ¶ The time.
 
-1. ¶ The kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The temperature and vertues.
 
-1. ¶ The time and place.
+    _ CHAP. 60. Of Millet.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The nature.
+      * ¶ The place.
 
-1. ¶ The vertues.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The place.
+      * ¶ The temper.
 
-1. ¶ The time.
+      * ¶ The vertues.
 
-1. ¶ The Names.
+    _ CHAP. 61. Of Turkie Corne.
 
-1. ¶ The temperature and vertues.
+      * ¶ The kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The temperature and vertues.
 
-1. ¶ The vertues.
+    _ CHAP. 62. Of Turkie Millet.
 
-1. ¶ The kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The temperature and vertues.
 
-1. ¶ The nature.
+    _ CHAP. 63. Of Panick.
 
-1. ¶ The vertues.
+      * ¶ The kindes.
 
-1. ¶ The kindes.
+      * ¶ The descrip tin.
 
-1. ¶ The Description.
+      * ¶ The place and time.
 
-1. ¶ The place.
+      * ¶ The Names.
 
-1. ¶ The time.
+      * ¶ The temperature.
 
-1. ¶ The Names.
+      * ¶ The vertues.
 
-1. ¶ The nature.
+    _ CHAP. 64. Of Canary seed, or Pety Panicke.
 
-1. ¶ The vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and vertues.
 
-1. ¶ The Nature and vertues.
+    _ CHAP. 65. Of Fox-Taile.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The temperature and vertues.
 
-1. ¶ The vertues.
+    _ CHAP. 66. Of Jobs Teares.
 
-1. ¶ The kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and vertues.
 
-1. ‡ ¶ The vertues.
+    _ CHAP. 67. Of Buck-wheat.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The place.
+      * ¶ The place.
 
-1. ¶ The time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The temper.
 
-1. ¶ The time.
+      * ¶ The vertues.
 
-1. ¶ The Names.
+    _ CHAP. 68. Of Cow Wheat.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ Of double floured Oriental Hyacinths.
+      * ¶ The place.
 
-1. ¶ The place.
+      * ¶ The time.
 
-1. ¶ The time.
+      * ¶ The Names.
 
-1. ¶ The nature.
+      * ¶ The Danger.
 
-1. ¶ The vertues.
+    _ CHAP. 69. Of Wilde Cow-Wheat.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and vertues.
 
-1. ¶ The Place.
+    _ CHAP. 70. Of White Asphodill.
 
-1. ¶ The Time.
+      * ¶ The kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The time and place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The nature.
 
-1. ¶ The Kindes.
+      * ¶ The vertues.
 
-1. ¶ The Description.
+    _ CHAP. 71. Of the Kings Speare.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The temperature and vertues.
 
-1. ¶ The Description.
+    _ CHAP. 72. Of Onion Asphodill.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The nature.
 
-1. ¶ The Descriptions.
+      * ¶ The vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 73. Of Yellow Lillies.
 
-1. ¶ The Description.
+      * ¶ The kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The place.
 
-1. The Names.
+      * ¶ The time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The Place.
+    _ CHAP. 73. Of Bulbed Floure de-Luce.
 
-1. ¶ The Time.
+      * ¶ The kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The place.
 
-1. ¶ The Description.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The nature.
 
-1. The Description.
+      * ¶ The vertues.
 
-1. ¶ The Place.
+    _ CHAP. 75. Of Spanish Nut.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The Temperature.
+      * ¶ The time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes of Spring Saffron
+      * ¶ The Nature and vertues.
 
-1. ¶ The Description of wilde Saffron
+    _ CHAP. 76. Of Corne-Flagge.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The nature.
 
-1. ¶ The Description.
+      * ¶ The vertues.
 
-1. ¶ The Place.
+    _ CHAP. 77. Of Starry Hyacinths and their kindes.
 
-1. ¶ The Time.
+      * ¶ The kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The place.
 
-1. ¶ The Vertues of Hermodactyls.
+      * ¶ The time.
 
-1. ¶ The correction.
+      * ¶ The Names.
 
-1. ¶ The Danger.
+      * ‡ ¶ The vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 78. Of Autumne Hyacinths.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The place.
 
-1. ¶ The Time.
+      * ¶ The time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+    _ CHAP. 79. Of the English Iacinth, or Hare-Bels.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ Of double floured Oriental Hyacinths.
 
-1. ¶ The Names.
+      * ¶ The place.
 
-1. ¶ The Temperature.
+      * ¶ The time.
 
-1. ¶ The Vertues.
+      * ¶ The nature.
 
-1. ¶ The Hurts.
+      * ¶ The vertues.
 
-1. The Description.
+    _ CHAP. 80. Of Faire baired Iacinth.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues of Squills.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 81. Of Muscari, or Musked Grape-floure.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Hurts.
+    _ CHAP. 82. Of Woolly Bulbus.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+    _ CHAP. 83. Of two feigned Plants.
 
-1. ¶ The Time and Place.
+      * ¶ The Description.
 
-1. ¶ The Names.
+    _ CHAP. 84. Of Daffodils.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place and Times.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 85. Of the Bastard Daffodill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 86. Of diuers other Daffodils or Narcisses.
 
-1. ‡. ¶ The Time.
+      * ¶ The Descriptions.
 
-1. ¶ The Names.
+    _ CHAP. 87. Of Tulipa, or the Dalmatian Cap.
 
-1. ¶ The Temper.
+      * ¶ The Kindes.
 
-1. ¶ Their Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names in particular.
+    _ CHAP. 88. Of Bulbous Violets.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. The Names.
+    _ CHAP. 89. Of Turkie or Ginny-hen Floure.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 90. Of true Saffron, and the wilde or Spring Saffrons.
 
-1. ¶ The Place.
+      * The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+      * ¶ The Kindes of Spring Saffron
 
-1. ¶ The Names.
+      * ¶ The Description of wilde Saffron
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Nature and Vertues.
+    _ CHAP. 91. Of Medow Saffron.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temper and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues of Hermodactyls.
 
-1. ¶ The Time.
+      * ¶ The correction.
 
-1. ¶ The Names.
+      * ¶ The Danger.
 
-1. ¶ The Nature and Vertues.
+    _ CHAP. 92. Of Starre of Bethlem.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 93. Of Onions.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+      * ¶ The Hurts.
 
-1. ¶ The Temperature.
+    _ CHAP. 94. Of Squils, or Sea-Onions.
 
-1. ¶ The Vertues.
+      * The Description.
 
-1. ¶ The Choice.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues of Squills.
 
-1. ¶ The Temperature.
+    _ CHAP. 95. Of Leekes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+      * ¶ The Hurts.
 
-1. ¶ The Description.
+    _ CHAP. 96. Of Ciues or 〈◊〉, and wilde Leekes.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Time and Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 97. Of Garlicke.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place and Times.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 98. Of Crow-Garlicke and Ramsons.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 99. Of Mountaine Garlicks:
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. The Place.
+      * ‡. ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ‡ ¶ The Names.
+      * ¶ The Temper.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ Their Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 100. Of Moly, or the Sorcerers Garlicke.
 
-1. ¶ Nidus avis flore & caule 〈◊〉〈◊〉〈◊〉; an Pseudoleimodoron Clus. Hist. Rar. plant. pag. 270.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names in particular.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ ‡ CHAP. 79. Of diuers other Molyes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+    _ CHAP. 102. Of White Lillies.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The 〈◊〉.
 
-1. ¶ 〈◊〉 Temperature.
+    _ CHAP. 103. Of Red Lillies.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 104. Of Mountaine Lillies.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 105. Of the Red Lillie of Constantinople.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ ‡ CHAP. 106. Of the narrow leaued reflex Lillies.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temper and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 107. Of the Persian Lilly.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 108. Of the Crowne 〈◊〉.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 109. Of Dogs Tooth.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 110. Of Dogs stones.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+      * ¶ The Choice.
 
-1. ¶ The Description.
+    _ CHAP. 111. Of Fooles Stones.
 
-1. ¶ The place.
+      * ¶ The Description.
 
-1. ¶ The time.
+      * ¶ The Place.
 
-1. The names.
+      * ¶ The Time.
 
-1. ¶ The temperature and vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 112. Of Goats Stones.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 113. Of Fox Stones.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 114. Of Sweet Cullions.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 115. Of Satyrion Royall.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 116. Of Serapia's Stones.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time and Place.
+    _ CHAP. 117. Of Fenny Stones.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ‡ ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 118. Of Birds nest.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ Nidus avis flore & caule 〈◊〉〈◊〉〈◊〉; an Pseudoleimodoron Clus. Hist. Rar. plant. pag. 270.
 
-1. ¶ The Danger.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Name.
+1. THE SECOND BOOKE OF THE HISTORIE OF PLANTS:
 
-1. ¶ The Temperature.
+    _ CHAP. 1. Of Turneps.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 2. Of wilde Turneps.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ 〈◊〉 Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 3. Of Nauewes.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Vertues, attributed to the first.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 4. Of Lyons Turnep, or Lyons leafe.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 5. Of Radish.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 6. Of wilde Radish.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 7. Of Horse Radish.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place and Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 8. Of Winter Cresses.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 9. Of Mustard.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ‡ ¶ Names in particular.
+      * ¶ The Names.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 10. Of Rocket.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP.11. Of Tarragon.
 
-1. ‡ ¶ Names in particular.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The place.
 
-1. ¶ The Vertues.
+      * ¶ The time.
 
-1. ¶ The Kindes.
+      * The names.
 
-1. ¶ The Description.
+      * ¶ The temperature and vertues.
 
-1. ¶ The Place.
+    _ CHAP.12. Of garden Cresses.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names in generall.
+      * ¶ The Place.
 
-1. ‡ ¶ The Names in particular.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 13. Of Indian Cresses.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 14. Of Sciatica Cresses.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temper and 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 15. Of Banke Cresses.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 16. Of Docke Cresses.
 
-1. The Temper.
+      * ¶ The Description.
 
-1. The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 17. Of Water-Parsenep, and Water-Cresses.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 18. Of wilde Water-Cresses, or Cuckow Floures.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Time and Place.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 19. Of Treacle Mustard.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+      * ¶ The Danger.
 
-1. ¶ The Description.
+    _ CHAP. 20. Of Candie Mustard.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Name.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+    _ CHAP. 21. Of Treacle Mustard.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place and Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature, and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 22. Of Wooddy Mustard.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 23. Of Towers Mustard.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ ‡ CHAP. 24. Of Turky Cresses.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Vertues, attributed to the first.
 
-1. ¶ The Names.
+    _ CHAP. 25. Of Shepheards-purse.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 26. Of Italian Rocket.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+    _ CHAP. 27. Of Groundsell.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 28. Of Saint James his Wort.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 29. Of Garden Succorie.
 
-1. The description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place and Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 30. Of wilde Succorie.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 31. Of Gumme Succorie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. The Place.
+      * ‡ ¶ Names in particular.
 
-1. The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 32. Of Dandelion.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 20. Of Sow-thistle.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. The description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ‡ ¶ Names in particular.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 34. Of Hawke-weed.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The vse and danger.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names in generall.
 
-1. ¶ The Place.
+      * ‡ ¶ The Names in particular.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 35. Of Clusius Hawkeweed.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Vertucs.
+    _ CHAP. 36. ‡ Of French or Golden Lung-wort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temper and 〈◊〉.
 
-1. ¶ The Vertues.
+    _ CHAP. 37. Of Lettuce.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ ‡ CHAP. 38. Of Wilde Lettuce.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * The Temper.
 
-1. ¶ The Time.
+      * The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 39. Of Lambs Lettuce, or Corne sallad.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 40. Of Coleworts.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 41. Of Rape-Cole.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 42. Of Beets.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Vertues.
 
-1. The Description.
+    _ CHAP. 43. Of Blites.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 44. Of Floure-Gentle.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place and Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature, and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 45. Of Orach.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 46. Of Stinking Orach.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 47. Of Goose-foot.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 48. Of English Mercurie.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 49. Of Spinach.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place and Time.
+      * ¶ The Nature.
 
-1. ¶ Their Names.
+      * ¶ The Vertues.
 
-1. ¶ Their Temper and Vertues.
+    _ CHAP. 50. Of Pellitorie of the wall.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 51. Of French Mercurie.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 52. Of Wilde Mercurie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 53. Of Torne-sole.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * The description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 54. Of Scorpion Grasse.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. The choice of Rubarbe.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 55. Of Nightshade.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 56. Of sleepy Nightshade.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * The Place.
 
-1. ¶ The Time.
+      * The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 57. Of winter Cherries.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 58. Of the Maruell of the World.
 
-1. ¶ The Time.
+      * The description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 59. Of Madde Apples.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The vse and danger.
 
-1. ¶ The Names.
+    _ CHAP. 60. Of Apples of Loue.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Nature:
+    _ CHAP. 61. Of the Aethiopian Apple.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Nature.
+      * ¶ The Vertucs.
 
-1. ¶ The Vertues.
+    _ CHAP. 62. Of Thornie-Apples.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 63. Of Bitter-sweet, or Wooddy Nightshade.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Place.
+    _ CHAP. 64. Of Binde-weed Nightshade.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 65. Of Mandrake.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 66. Of Henbane.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 67. Of yellow Henbane, or English Tabaco.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 68. Of Tabaco, or Henbane of Peru.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues,
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 69. Of Tree Nightshade.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 70. Of Balme Apple, or Apple of Hierusalem.
 
-1. ¶ The Description.
+      * The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Description.
+    _ CHAP. 71. Of Ginnie or Indian Pepper.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 72. Of horned Poppie.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 73. Of Garden Poppies.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 74. Of Corne-Rose, or wilde Poppy.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ Their Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 75. Of Bastard wilde Poppy.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 76. Of Winde-floures.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ ‡ CHAP. 77. Of diuers other Anemones, or Winde-floures.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place and Time.
 
-1. ¶ The Time.
+      * ¶ Their Names.
 
-1. ¶ The Names.
+      * ¶ Their Temper and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 78. Of wilde Anemones, or Winde-floures.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 79. Of Bastard Anemones, or Pasque floures.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place and Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 80. Of Adonis floure.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place and Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 81. Of Dockes.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 82. Of Water Dockes.
 
-1. ¶ The Time.
+      * The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 83 Of Rubarb.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * The choice of Rubarbe.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 84. Of Sorrell.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 85. Of Bistort or Snake-weed.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 86. Of Scuruy-Grasse, or Spoon-wort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 87. Of Twayblade, or herbe Bifoile.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ Their Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 88. Of Adders-Tongue.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 89. Of One-berry, or Herbe True-loue, and Moone-wort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 90. Of Winter-Greene.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature:
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 91. Of Lilly in the valley, or May Lilly.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 92. Of Sea Lauander.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 93. Of Serapias Turbith, or Sea Starwort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place, Time, and Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 94. Of Turbith of Antioch.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 95. Of Arrow-head, or Water-archer.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 96. Of Water Plantaine.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ‡ ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ‡ ¶ The Names.
+    _ CHAP. 97. Of Land Plantaine.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 98. Of Rib-wort.
 
-1. ‡ ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vcrtues.
+    _ CHAP. 99. Of Sea Plantaines.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Name, and canse thereof.
+      * ¶ The Temperature and Vertues,
 
-1. ¶ The Nature.
+    _ CHAP. 100. Of Sea Buck-horne Plantaines.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 101. Of Bucke-horne Plantaines, or Harts-horne.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 102. Of Saracens Consound.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 103. Of Golden Rod.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 103. Of Captaine Andreas Dorias his Wound-woort.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Temper and 〈◊〉.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 105. Of Felwoort, or Baldmoney.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 106. Of English Felwoort.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place, Time, Names, Temperature, and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ ‡ CHAP. 107. Of Bastard Felwoort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ Their Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 106. Of Calathian Violet, or Autumne Bel-floure.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 109. Of Venus Looking-glasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 110. Of Neesing root, or Neesewoort.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 111. Of Wilde white Hellebor.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 112. Of our Ladies Slipper.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 113. Of Sope-wort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 114. Of Arsmart or Water-Pepper.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place and Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 115. Of Bell-Floures.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place and Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ‡ ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 116. Of Throat-wort, or Canturbury-Bells.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 117. Of Peach-bells and Steeple-bells.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 118. Of Rampions, or wilde Bell-floures.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 119. Of Wall-floures, or yellow Stocke-Gillo-floures.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 120. Of Stocke Gillofloures.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 121. Of Sea Stocke Gillofloures.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 122. Of Dames Violets, or Queenes Gillofloures.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 123. Of White Sattin floure.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ Their Temperature and Vertues.
+
+    _ CHAP. 124. Of Galen and Dioscorides Moonwoorts or Madwoorts.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 125. Of Rose Campion.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 126. Of Rose-Campion.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 127. Of wilde Rose-Campions.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ ‡ CHAP. 128. Of diuers other wilde Campions.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Nature and Vertues.
+
+    _ CHAP. 129. Of Willow-herbe, or Loose-strife.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 130. Of Barren-woort.
+
+      * ¶ The Description.
+
+      * ¶ The place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ ‡ CHAP. 131. Of Fleabane.
+
+      * ¶ The Description.
+
+      * ¶ The Place, Time, and Names.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 132. Of Starre-woort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 133. Of Woade.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 134. Of Cow-Basill.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ‡ ¶ The Names.
+
+      * ¶ The Nature and Vertues.
+
+    _ CHAP. 135. Of Sesamoides, or Bastard Weld or Woade.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ‡ ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 136. Of Dyers Weed.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Names.
+
+      * ¶ The Time.
+
+      * ¶ The Nature.
+
+      * ‡ ¶ The Vertues.
+
+    _ CHAP. 137. Of Staues-acre.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vcrtues.
+
+    _ CHAP. 138. Of Palma Christi.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Name, and canse thereof.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 139. Of Spurge.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 140. Of Herbe Terrible.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 141. Of Herbe Aloe, or Sea Housleeke.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 142. Of Housleeke or Sengreene.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 143. Of the Lesser Housleekes or Prickmadams.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ ‡ CHAP. 144. Of diuers other small Sengreenes.
+
+      * ¶ The Description.
+
+      * ¶ The Temper and 〈◊〉.
+
+    _ CHAP. 145. Of Stone-crop, called Wall-pepper.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 146. Of Orpyne.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 147. Of the smaller Orpyns.
+
+      * ¶ The Description.
+
+      * ¶ The Place, Time, Names, Temperature, and Vertues.
+
+    _ CHAP. 148. Of Purslane.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 149. Of sea Purslane, and of the shrubby Sengreens.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 150. Of Herbe-Iuy, or Ground-Pine.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Nature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 152. Of Nauelwoort, or Penniwoort of the Wall.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 152. Of Sea Pennywoort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 153. Of Rose-woort, or Roseroot.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 144. Of Sampier.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 155. Of Glasse Saltwoort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 156. Of Thorow Waxe.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 157. Of Honie-woort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ‡ ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 158. Of S. Iohns wort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 159. Of Saint Peters wort, or square S. Johns Grasse.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 160. Of Tutsan or Parke-leaues.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ ‡ CHAP. 161. Of Bastard S. Johns wort.
+
+      * ¶ The Description.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 162. Of the great Centorie.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 163. Of Small Centorie.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 164. Of Calues snout, or Snapdragon.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 165. Of Tode-Flax.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 166. Of Garden flaxe.
+
+      * The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 167. Of Wilde Flaxe.
+
+      * ¶ The Description.
+
+    _ Linum syluestre 〈◊〉. Mil-mountaine.
 I came to know this herbe by the name of Mil-mountaine, and his vertue by this meanes. On the second
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 168. Of Blacke Saltwoort.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 169. Of Milke-woort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 170. Of Knot-Grasse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 171. Of sundry sorts of Knot-Grasses.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertue.
+    _ CHAP. 172. Of Rupture woort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertue.
 
-1. ¶ The Vertues.
+    _ CHAP. 173. Of wilde Time.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 174. Of Garden Time.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 175. Of Sauorie.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 176. Of Dodder.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names in generall.
+      * ¶ The Vertues.
 
-1. ‡ ¶ Names in particular.
+    _ CHAP. 177. Of Hyssope.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 178. Of Hedge Hyssope.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names in generall.
 
-1. ¶ The Time.
+      * ‡ ¶ Names in particular.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 179. Of Lauander Spike.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Danger.
+    _ CHAP. 180. Of French Lauander, or Stickeadoue.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 181. Of Flea-wort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+      * ¶ The Danger.
 
-1. ¶ The Place.
+    _ CHAP. 185. Of Gloue Gillofloures.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. The Temperatures and Vertues.
+    _ CHAP. 183. Of Pinks, or wilde Gillofloures.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 184. Of Sweet Saint Johns and Sweet Williams.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names:
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. Icon & descriptio ex Manuscripto vetutissimo.
+      * ¶ The Names.
 
-1. Vna cura ipsius ad calculos expellendos
+      * ¶ The Temperature and Vertues.
 
-1. The Vertues.
+    _ CHAP. 185. Of Crow floures, or Wilde Williams.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * The Temperatures and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 186. Of Catch-Flie, or Limewoort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 187. Of Thrift, or our Ladies Cushion.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names:
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 188. Of the Saxifrage of the Antients, and of that great one of Matthiolus, with that of Pena and Lobel.
 
-1. ¶ The Description.
+      * Icon & descriptio ex Manuscripto vetutissimo.
 
-1. ¶ The Place.
+      * Vna cura ipsius ad calculos expellendos
 
-1. ¶ The Time.
+      * The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 189. Of Sneesewoort.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 190. Of Hares Eares.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 191. Of Gromell.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 192 Of Chickeweed.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 193. Of the bastard Chickweeds.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Tmperatures and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 194. Of Pimpernell.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 195. Of Brooke-lime, or water Pimpernell.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 196. Of stinking Ground-Pine.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The 〈◊〉.
+      * The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 197. Of Whiteblow, or Whitelow Grasse.
 
-1. ¶ The Time.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Tmperatures and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 198. Of the female Fluellen, or Speedwell.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 192. Of Fluellen the male, or Paul's Betonie.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 198. Of herbe Two pence.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 200. Of Bugle or Middle Comfrey.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 201 Of Selfe-heale.
 
-1. ¶ The Vertues.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 202. Of the great Daisie, or Maudelen woort.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 203. Of little Daisies.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 204. Of Mouse-eare.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 205. Of Cotton-weed or Cud-weed.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Dèscription.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 206. Of Golden Moth-wort, or Cudweed.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 207. Of Golden Floure-Gentle.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 208. Of Costmarie and Maudelein.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 209. Of Tansie.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 210. Of Fetherfew.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 211. Of Poley, or Pellamountaine.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 212. Of Germander.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Dèscription.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 213: Of Tree Germander.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 214. Of Water Germander, or Garlicke Germander.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 215. Of Wood Sage, or Garlicke Sage.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 216. Of Eye-bright.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 217. Of Marierome.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Time.
+    _ CHAP. 218. Of wilde Marjerome.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 219. Of Goates Marjerome, or Organy.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 220. Of Herbe Masticke.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 221. Of Pennie Royall, or pudding grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 222. Of Basill.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 223. Of wilde Basill.
 
-1. ¶ The Time, Place, &c.
+      * ¶ The Description.
 
-1. ¶ The Temperatures and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 224. Of Basill Valerian.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 225. Of Mints.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 226. Of Nep, or Cat Mint.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 227. Of Horse-Mint or Water-Mint.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 228. Of Mountaine Mint or Calamint.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 229. Of Bawme.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues, which chiefely belong to the last described.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 230. Of Horehound.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 231. Of wilde Horehound.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ ‡ CHAP. 232. Of the Fronwoorts or Alheales.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Time, Place, &c.
 
-1. ¶ The Time.
+      * ¶ The Temperatures and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 233. Of Water Horehound.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 234. Of blacke or stinking Horehound.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 235. Of Archangell, or dead Nettle.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 236. Of Mother woort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 237. Of stinging Nettle.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 238. Of Hempe.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 239. Of wilde Hempe.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 240. Of Water-Hempe.
 
-1. ¶ The Place and Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues, which chiefely belong to the last described.
 
-1. ¶ The Time.
+    _ CHAP. 241. Of Egrimonie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 242. Of Sawewoort.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 243. Of Betony.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 244. Of Water-Betony.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 245. Of Great Figge-wort, or Brownewort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 246. Of Veruaine.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 247. Of Scabious.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 248. Of Diuels bit.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 249. Of Matfellon or Knapweed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 250. Of Siluer Knapweed.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 251. Of Blew Bottle, or Corne Floure.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 252. Of Goats Beard, or Go to bed at noone.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and 〈◊〉.
+    _ CHAP. 253. Of Vipers-Grasse.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place and Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 254. Of Marigolds.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 255. Of Germane Marigolds.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 256. Of Corne-Marigold.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 257. Of Oxe-Eie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 258. Of French Marigold, or African Marigold.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 259. Of the floure of the Sun, or the Marigold of Peru.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 260. Of Jerusalem Artichoke.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 261. Of Cammomill.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 262. Of May-weed, or wilde Cammomill.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 263. Of Pellitorie of Spaine.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 264. Of Leopards bane.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 265. Of Sage.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 266. Of French Sage or wooddie Mullein.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 267. Of Clarie.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 268. Of wilde Clarie, or Oculus Christi.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and 〈◊〉.
 
-1. ¶ The Place.
+    _ CHAP. 269. Of Mullein.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 270. Of base Mullein.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 271. Of Moth Mullein.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 272. Of Mullein of Aethiopia.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 273. Of Cowslips.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The 〈◊〉.
+    _ CHAP. 274. Of Birds-eine.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues, out of the Antients.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP: 275. Of Beares eares, or Mountaine Cowslips.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 276. Of Mountaine Sanicle.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and 〈◊〉.
+      * ¶ The Description.
 
-1. ¶. The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 277. Of Fox-Gloues.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 278. Of Baccharis out of Dioscorides.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 279: Of Elecampane.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 280. Of Sauce alone, or 〈◊〉 by the hedge.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 281. Of Dittany.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 282. Of Borage.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 283. Of Buglosse.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 284. Of Alkanet or wilde Buglosse.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 285. Of Walland Vipers Buglosse.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 286. Of Hounds-tongue.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Nature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 287. Of Comfrey, or great Consound.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 288. Of Cowslips of Jerusalem.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 289. Of Clote Burre, or Burre Docke.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Danger.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 290. Of Colts-foot, or Horse-foot.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. The Kindes.
+    _ CHAP. 291. Of Butter-Burre.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ ‡ CHAP. 292. Of Mountaine Horse-foot.
 
-1. ¶ The Place.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues, out of the Antients.
 
-1. ¶ The Description.
+    _ CHAP. 293. Of small Celandine or Pile-woort.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 294. Of Marsh Marigold.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and 〈◊〉.
 
-1. ¶ The Place.
+    _ CHAP. 295. Of Frogge-bit.
 
-1. ¶ The Time.
+      * ¶. The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 296. Of Water Lillie.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 297. Of Pond-weed, or water Spike.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 298. Of Water Saligot, water Caltrops, or water Nuts.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 299. Of water Sengreene, or fresh water Soldier.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 300. Of Water Yarrow, and water Gillofloure.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 301. Of Ducks meate.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ Of Grapes.
+    _ CHAP. 302. Of Water Crow-foot.
 
-1. ¶ Of Raisins.
+      * ¶ The Description.
 
-1. ¶ Of Must.
+      * ¶ The Place.
 
-1. ¶ Of Cute.
+      * ¶ The Time.
 
-1. ¶ Of Wine.
+      * ¶ The Names.
 
-1. ¶ Of the delaying, or tempering of Wine.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ Of the liquor which is destilled out of wine, commonly called, Aqua vitae.
+    _ CHAP. 303. Of Dragons.
 
-1. ¶ Of Argall, Tartar, or wine Lees.
+      * ¶ The Description.
 
-1. ¶ The briefe summe of that hath been said of the Vine.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 304. Of Cockow pint, or wake-Robin.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 305. Of Friers Cowle, or hooded Cuckowpint.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 306. Of Astrabacca.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 307. Of Sea Binde-weed.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 308. Of the Grasse of Parnassus.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 309. Of white Saxifrage, or Golden Saxifrage.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 310 Of Sow-bread.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Danger.
 
-1. ¶ The Description.
+    _ CHAP. 311. Of Birthwoorts.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 312. Of Violets.
 
-1. ¶ The Names.
+      * The Kindes.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 313. Of Hearts-ease, or Pansies.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 314. Of Ground-Juy, or Ale-hoofe.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 315. Of Juy.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 316. Of rough Binde-weed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 317. Of smooth or gentle Binde-weed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 318. Of Blew Bindweed.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place and Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 319. Of Scammonie, or purging Bindweed.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 320. Of Briony, or the white Vine.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 321. Of blacke Brionie, or the wilde Vine.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 322. Of Bryonie of Mexico.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 323. Of the Manured Vine.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+      * ¶ Of Grapes.
 
-1. ¶ The Vertues.
+      * ¶ Of Raisins.
 
-1. ¶ The Description.
+      * ¶ Of Must.
 
-1. ¶ The Place.
+      * ¶ Of Cute.
 
-1. ¶ The Time.
+      * ¶ Of Wine.
 
-1. ¶ The Names.
+      * ¶ Of the delaying, or tempering of Wine.
 
-1. ¶ The Temperature.
+      * ¶ Of the liquor which is destilled out of wine, commonly called, Aqua vitae.
 
-1. ¶ The Vertues.
+      * ¶ Of Argall, Tartar, or wine Lees.
 
-1. ¶ The Description.
+      * ¶ The briefe summe of that hath been said of the Vine.
 
-1. ¶ The Place.
+    _ CHAP. 324. Of Hops.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 325. Of Trauellers-Joy.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 326. Of Ladies Bower, or Virgins Bower.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 327. Of purging Peruinckle.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 328. Of Wood-binde, or Hony-suckle.
 
-1. ¶ The Vertues.
+      * The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 329. Of Jasmine, or Gelsemine.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 330. Of Peruinkle.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 331. Of Capers.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 332. Of Beane Capers.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 333. Of Swallow-wort.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 334. Of Indian Swallow-woort.
 
-1. ¶ The Kindes.
+      * ¶ The Description
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Nature and Vertues.
+    _ CHAP. 335. Of the Bombaste or Cotton-Plant.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 336. Of Dogs-bane.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Nature and Vertues.
+    _ CHAP. 337. Of Solomons Seale.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place and Time.
+    _ CHAP. 338. Of Knee-holme, or Butchers broome.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 339. Of Horse-tongue or Double-tongue.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 340. Of Cucumbers.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 341. Of Wilde Cucumber.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * The Place.
 
-1. ¶ The Temperature of all the Crowfeet.
+      * ¶ The Time.
 
-1. ¶ The Vertues of all the Crowfeet.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The kindes.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 342. Of Citrull Cucumbers.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place and Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 343. Of the wilde Citrull called Colocynthis.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues. 
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 344. Of Muske-Melon, or Million.
 
-1. ¶ The Names.
+      * The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 345. Of Melons, or Pompions.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+    _ Melones aquatici edules Virginiani. The Virginian Water-Melon.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Danger.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 346. Of Wilde Pompions.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 347. Of Gourds.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 348. Of the wilde Gourd.
 
-1. ¶ The Description.
+      * ¶ The Description
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 349. Of Potato's.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 350. Of Potatoes of Virginia.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 351. Of the Garden Mallow called Hollihocke.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 352. Of the wilde Mallowes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 353. Of Marsh Mallow.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 354. Of the yellow Lillie.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 355. Of Venice Mallow, or Good-night at Noone.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 356. Of Cranes-bill.
 
-1. ¶ The Kindes.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 357. Of Herbe Robert.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 358. Of knobbed Cranes-bill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 359. Of Musked Cranes-bill.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 360. Of Crow-foot Cranes-bill, or Gratia Dei.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 361. Of Candy Cranes bill.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 362. Of diuers wilde Cranes-bills.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ ‡ CHAP. 363. Of certaine other Cranes-bills.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+    _ CHAP. 364. Of Sanicle.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 365. Of Ladies Mantle, or great Sanicle.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 366. Of Neese-wort Sanicle.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 367. Of Crow-feet.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place and Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+    _ CHAP. 368. Of Double yellow and white Batchelors Buttons.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 369. Of Turkie or Asian Crow-feet.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place and Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 370. Of Speare-woort, or Bane-woort.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature of all the Crowfeet.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues of all the Crowfeet.
 
-1. ¶ The Description.
+    _ ‡ CHAP. 371. Of diuers other Crowfeet.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+    _ CHAP. 372. Of Woolfes-bane.
 
-1. ¶ The Names.
+      * ¶ The kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Nature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 373. Of Winter Wolfes-bane.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues. 
 
-1. ¶ The Description.
+    _ CHAP. 374. Of Mithridate Woolfes-bane.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 375. Of yellow Wolfes-bane.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 376. Of other Wolfes-banes and Monkes-hoods.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+      * ¶ The Danger.
 
-1. ¶ The Place.
+    _ CHAP. 377. Of blacke Hellebore.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 378. Of Dioscorides his blacke Hellebor.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 379. Of Herbe Christopher.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 380. Of Peionie.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 381. Of toothed Violets or Corall woorts.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 382. Of Cinkefoile, or fiue finger Grasse.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Names.
 
-1. ¶ The Kinds.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 383. Of Setfoile, or Tormentill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 384. Of wilde Tansie or Siluer-weed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 385. Of Auens, or Herbe Bennet.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 386. Of Straw-berries.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 387. Of Angelica.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 388. Of Masterworts and herbe Gerard.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place and Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 389. Of Hercules Wound-wort, or All-heale.
 
-1. ¶ The Nature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 390. Of Clownes Wound-wortor All-heale.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 391. Of Magydare, or Laser-wort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 392. Of common Louage.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 393. Of Cow Parsnep.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 394. Of Herbe Frankincense.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 395. Of Corianders.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 396. Of Parsley.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 367: Of water Parsley, or Smallage.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 398. Of Mountaine Parsley.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 399. Of stone Parsley of Macedonie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ ‡ CHAP. 400. Of Corne Parsley, or Hone-wort.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 401. Of Alexander.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 402. Of wilde Parsley.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place and Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 403. Of bastard Parsley.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 404. Of Candy Alexanders.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 405. Of Parsneps.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 406. Of Skirrets.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place and Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 407. Of Carrots.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 408. Of Wilde Carrot.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 409. Of Candie Carrots.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 410. Of stinking and deadly Carrots.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 411. Of Fennell.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 412. Of Dill.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 413. Of Caruwaies.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 414. Of Annise.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 414. Of Bishops Weed, Herbe-William, or Ameos.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 416. Of Cheruill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 417. Of Shepheards needle or wilde Cheruill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 418. Of Tooth-picke Cheruill.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 419. Of Mede-sweet, or Queene of the Medowes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 420. Of Burnet Saxifrage.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Names.
+    _ CHAP. 421. Of Burnet.
 
-1. ¶ The Temperature.
+      * ¶ The Kinds.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 422. Of English Saxifrage.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Nature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 423. Of Siler Mountaine or bastard Louage.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Nature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 224. Of Seselios, or Harte-worts of Candy.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 425. Of Spignell, Spicknell, or Mewe.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 426. Of Horestrange, or Sulphurwoort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 427. Of Herbe Ferula, or Fennell Gyant.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 428. Of Drop-wort, or Filipendula.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place and Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Nature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 429. Of Homlocks, or herbe Bennet.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description:
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 430. Of wilde and water Hemlockes.
 
-1. ¶ The Temperature and Vertues..
+      * ¶ The Description.
 
-1. ¶ The Kindes:
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 431. Of Earth-nut, Earth Chest-nut, or Kipper-nut.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 432. Of Cumin.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 433. Of wilde Cumin.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 434. Of Flixweed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 435. Of the great Celandine, or Swallow-woort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 436. Of Coxcombe, or Yellow Rattle.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 437. Of red Rattle, or Lousewoort.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 438. Of Yarrow, or Nose-bleed.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 439. Of yellow Yarrow, or Milfoile.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 440. Of Valerian, or Setwall.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature. 
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 441. Of Mountaine Setwall, or Nardus.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 442. Of Larkes heele or Larkes claw.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 443. Of Gith, or Nigella.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 444. Of Cockle.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place and Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 445. Of Fumitorie.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 446. Of bulbous Fumitorie, or Hollow-root.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 447. Of Columbine.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 448. Of Wormewood.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 449. Of Small leafed Wormewood.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 450. Of Sea Wormewood.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 451. Of Holy Wormewood.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 452. 〈◊〉 and Bastard Wormewoods.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 453. Of Mugwort.
 
-1. ¶ The Nature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 454. Of Sothernwood.
 
-1. ¶ The Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 455. Of Oke of Jerusalem, and Oke of Cappadocia.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 456. Of Lauander Cotton.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 457. Of Sperage, or Asparagus.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place and Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 458. Of Horse-taile, or Shaue-grasse.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertnes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 459. Of Sea-Cluster, or Sea Raison.
 
-1. ¶ The Temperature and 〈◊〉.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 460. Of Madder.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 461. Of Goose-grasse, or Cliuers.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 462. Of Crosse-woort.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 463. Of Woodrooffe.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 464. Of Ladies Bedstraw.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 465. Of Ferne.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues. 
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 466. Of Water-Ferne, or Osmund the water-man.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Nature.
+    _ CHAP. 467. Of Polypodie or wall-Ferne.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 468. Of Oke-Ferne.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 469. Of blacke Oke-Ferne.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 470. Of Harts-tongue.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 471. Of Spleene-woort, or Milt-waste.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 472. Of diuers small Fernes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 473. Of true Maiden-haire.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 474. Of English, or common Maiden-haire.
 
-1. ¶ The Vertues.
+      * ¶ The Description:
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ Te Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues..
 
-1. ¶ The Names.
+    _ CHAP. 475. Of Thistles.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes:
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Temperature of Red Roses.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues of the parts.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 476. Of the Cotton Thistle.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 477. Of our Ladies-Thistle.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 478. Of the Globe Thistle.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and 〈◊〉.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ A generall Description, wherein all the sorts of Cistus are comprised.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 479. Of the Artichoke.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 480. Of Golden Thistles.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 481. Of white Carline Thistle of Dioscorides.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ‡ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 482. Of wilde Carline Thistle.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 483. Of Chamaeleon Thistle.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place and Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 484. Of Sea Holly.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Nature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 485. Of bastard Sea Hollies.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 486. Of Star-Thistle.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 487 Of Teasels.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature. 
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 488. Of Bastard Saffron.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 489. Of Wilde Bastard Saffron.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 490. Of Thistle vpon Thistle, and diuers other Wilde Thistles.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 491. Of the Melon or Hedge-hog Thistle.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 492. Of the gummie Thistle, called Euphorbium.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ ‡ CHAP. 493. Of soft Thistles, and Thistle gentle.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 494. Of three leafed Grasse, or Medow Trefoile.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes:
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 495. Of stinking Trefoile, or Treacle Clauer.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ 〈◊〉〈◊〉
+    _ CHAP. 496. Of diuers other Trefoiles.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 497. Of the great Trefoiles, or winged Clauers.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 498. Of Water Trefoile, or Bucks Beanes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Nature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 499 Of sweet Trefoile, or garden Clauer.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 500. Of Fenugreeke.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 501. Of Horned Clauer, and blacke Clauer.
 
-1. The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 502. Of Medicke Fodder, or snaile Clauer.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description,
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 503. Of Wood Sorrell, or Stubwort.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Nature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 504. Of noble Liuer-wort, or golden Trefoile.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 505. Of Melilot, or plaister Clauer.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ ‡ CHAP. 506. Of certaine other Trefoiles.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 597. Of Pulse.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 508. Of Kidney Beane.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 509. Of the flat Beane called Lupine.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place and Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 510. Of Peason.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertnes.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 511. Of the 〈◊〉 or Garden Ciche.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and 〈◊〉.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 512. Of wilde Ciches.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Temperature and 〈◊〉.
+      * ¶ The Temperature and Vertues.
 
-1. Of Pitch and Tar.
+    _ CHAP. 513. Of Lentils.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 514. Of Cich or true Orobus.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 515. Of the Vetch or Fetch.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 516. Of Chichlings, Pease, and Tare euerlasting.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 517. Of the oylie Pulse called Sesamum.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. Taxus tantum florens. The Yew which only floures.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 518. Of Hatchet Fetch.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 519. Of Pease Earth-Nut.
 
-1. ¶ The Kindes:
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 520. Of Milke Vetch.
 
-1. ¶ The Kindes.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues. 
 
-1. ¶ The Vertues.
+    _ CHAP. 521. Of Kidney Vetch.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 522. Of Blacke milke Tare.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Nature.
 
-1. ¶ The Vertues..
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 523. Of red Fitchling, Medick Fitch, and Cockes-head.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 524. Of Bastard Dittanie.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 525. Of Land Caltrops.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ ‡ CHAP. 526. Of Spring or mountaine 〈◊〉 or Vetches.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ ‡ CHAP. 527. Of some other Pulses.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 528. Of bastard Rubarb.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 529. Of Goats Rue.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 530. Of Pliny his Leadwoot.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 531. Of Rue, or herbe Grace.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+1. THE THIRD BOOKE OF THE HISTORIE OF PLANTS.
 
-1. ¶ The Description.
+    _ The Proeme.
 
-1. ¶ The Place and Time.
+    _ CHAP. 1. Of Roses.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Vertues.
+      * ¶ Te Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature of Red Roses.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues of the parts.
 
-1. ¶ The Place.
+    _ CHAP. 2. Of the Muske Roses.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 3. Of the wilde Roses.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 4. Of the Bramble or black-Berry bush.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and 〈◊〉.
 
-1. ¶ The Time.
+    _ CHAP. 5. Of Holly Roses, or Cistus.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ A generall Description, wherein all the sorts of Cistus are comprised.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 6. Of other Plants reckoned for dwarfe kindes of Cistus.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 7. Of Cistus Ledon, and Ladanum.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 8. Of Rosemarie.
 
-1. ¶ The Temperature.
+      * ‡ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 9. Of Vpright Wood-binde.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 10. Of Sene.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place and Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 11. Of bastard Sene.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Nature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 12. Of 〈◊〉
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 13. Of Milke Trefoile or Shrub Trefoile.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 12. Of Bastard Milke-Trefoiles.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 15. Of the venomous Tree Trefoile.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 16. Of the shrub Trefoile called also Makebate.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 17. Of Broome, and Broome Rape.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 18. Of base Broome or greening weed.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 19. Of Spanish base Broomes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 20. Of Furzes, Gorsse, Whin, or prickley Broome.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 21. Of Cammocke Furze, Rest-Harrow, or Petty Whinne.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 22. Of Goose-berrie, or Fea-berry Bush.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 23. Of Barberries.
 
-1. ¶ The Time.
+      * ¶ The Kindes:
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 24. Of the white Thorne, or Hawthorne Tree.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ 〈◊〉〈◊〉
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 25. Of Goats Thorne.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 26. Of the Aegyptian Thorne.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Nature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 27. Of box Thorne, and the iuice thereof called Lycium.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Kindes.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 28. Of Ramme or Harts Thorne.
 
-1. ¶ The Temperature.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The generall description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 29. Of 〈◊〉 Thorne.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The generall Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 30. Of Buck-Thorne, or laxatiue 〈◊〉.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 31. Of the Holme, Holly, or Huluer tree.
 
-1. ¶ The Kindes.
+      * ¶ The Description,
 
-1. ¶ The generall Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 32. Of the Oke.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 33. Of the Scarlet Oke.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 34. Of the great Skarlet Oke.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 35. Of the great Holme-Oke.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 36. Of the Corke Oke.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 37. Of the Gall tree.
 
-1. ¶ The Time.
+      * ¶ The Kindes.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 38. Of Misseltoe or Misteltoe.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 39. Of the Cedar tree.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 40. Of the Pitch tree.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 41. Of the Pine Tree.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 42. Of the Wilde Pine tree.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ Of Rosins.
 
-1. ¶ The Names.
+      * ¶ The Temperature and 〈◊〉.
 
-1. ¶ The Temperature and Vertues.
+      * Of Pitch and Tar.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 43. Of the Firre or Deale Tree.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 44. Of the Larch Tree.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 45. Of the Cypresse tree.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 46. Of the Tree of Life.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 47. Of the Yew tree.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * Taxus tantum florens. The Yew which only floures.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+    _ CHAP. 48. Of the Iuniper tree.
 
-1. ¶ The Description.
+      * ¶ The Kindes.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 49. Of the prickly Cedar, or Cedar Iuniper.
 
-1. ¶ The Names.
+      * ¶ The Kindes:
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 50. Of Sauin.
 
-1. ¶ The Kindes.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 51. Of Tamariske.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place and Time.
+    _ CHAP. 52. Of Heath, Hather, or Linge.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues..
 
-1. ¶ The Temperature.
+    _ CHAP. 53. Of Heath of Ierico.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 54. Of the Chaste Tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 55. Of the Willow Tree.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 56. Of the Oliue Tree.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 57. Of Priuet or Prim Print.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 58. Of Mocke-Priuet.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 59. Of bastard Priuet.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 60. Of the fruitlesse Priuet.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place, Time, and Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 61. Of the white and blew Pipe-Priuet.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues and vse.
+    _ CHAP. 62. Of Widow-Waile, or Spurge Oliue.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 63. Of Germane Oliue Spurge.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place and Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature.
 
-1. ¶ The Description.
+      * ¶ The Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 64. Of Spurge Flax.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Temperature.
+      * ¶ The Time.
 
-1. ¶ The Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place, Time, and Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 65. Of Spurge Laurell.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * ¶ The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 66. Of Rose Bay, or Oleander.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 67. Of dwarfe Rose Bay.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+    _ CHAP. 68. Of the Bay or Laurell tree.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 69. Of the Wilde Bay tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 70. Of the Box Tree.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 71. Of the Myrtle Tree.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Kindes.
+    _ CHAP. 72. Of sweet Willow or Gaule.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names.
+      * ¶ The Names.
 
-1. ¶ The Temperature.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The 〈◊〉.
+    _ CHAP. 73. Of Worts or Wortle berries.
 
-1. ¶ The Place.
+      * ¶ The Kindes.
 
-1. ¶ The Time.
+      * ¶ The Description.
 
-1. ¶ The Names.
+      * ¶ The Place.
 
-1. ¶ The Vse and Temperature.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 74. Of the Marish Worts or Fenne-Berries.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Names.
+    _ CHAP. 75. Of Cloud-berry.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature and Vertues.
+    _ CHAP. 76. Of shrub Heart-Wort of Aethiopia.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Names and Vse.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place and Time.
+    _ CHAP. 77. Of the Elder tree.
 
-1. ¶ The Names.
+      * ¶ The Kindes.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 78. Of Marish or Water Elder.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 79. Of Dane-Wort, Wall-Wort, or Dwarfe Elder.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Kindes.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature.
 
-1. ¶ The Place.
+      * ¶ The Vertues.
 
-1. ¶ The Time.
+    _ CHAP. 80. Of Beane Trefoile.
 
-1. ¶ The Names.
+      * ¶ The Description.
 
-1. ¶ The Temperature.
+      * ¶ The Place.
 
-1. ¶ The Vertues.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Place.
+      * ¶ The Temperature.
 
-1. ¶ The Time.
+      * ¶ The Vertues.
 
-1. ¶ The Names.
+    _ CHAP. 81. Of Iudas Tree.
 
-1. ¶ The Temperature.
+      * ¶ The Description.
 
-1. ¶ The Vertues.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time and Names.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 82. Of the Carob tree, or Saint Iohns Bread.
 
-1. ¶ The Vertues:
+      * ¶ The Description.
 
-1. ¶ The Kindes.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Time.
+      * ¶ The Temperature.
 
-1. ¶ The Names.
+      * ¶ The Vertues.
 
-1. ¶ The Temperature.
+    _ CHAP. 83. Of Cassia Fistula, or Pudding Pipe.
 
-1. ¶ The Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature.
+      * The Vertues.
 
-1. ¶ The Vertues.
+    _ CHAP. 84. Of the Lentiske, or Masticke tree.
 
-1. ¶ The Kindes.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Place.
+      * ¶ The Time.
 
-1. ¶ The Time.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 85. Of the Turpentine Tree.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The 〈◊〉.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Kindes.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 86. Of the Frankincense tree.
 
-1. ¶ The Place.
+      * ¶ The Description.
 
-1. ¶ The Time.
+      * ¶ The Place.
 
-1. ¶ The Names.
+      * ¶ The Time.
 
-1. ¶ The Temperature.
+      * ¶ The Names.
 
-1. ¶ The Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 87. Of Fisticke Nuts.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Place.
+      * ¶ The Place.
 
-1. ¶ The Time.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place, Time, and Names.
+    _ CHAP. 88. Of the Bladder Nut.
 
-1. The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Place.
+    _ CHAP. 89. Of the Hasell tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 90. Of the Wall-nut tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Vertues out of Alpinus. 
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 91. Of the Chestnut tree.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Description.
+      * ¶ The Names.
 
-1. The Temperature and Vertues.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 92. Of the Beech tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Description.
+      * ¶ The Time.
 
-1. ¶ The Place.
+      * ¶ The Names.
 
-1. ¶ The Names.
+      * ¶ The Temperature.
 
-1. ¶ The Vertues.
+      * ¶ The Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 93. Of the Almond tree.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Place.
 
-1. ¶ The 〈◊〉.
+      * ¶ The Time.
 
-1. ¶ The Temperature and Vertues out of the Antients.
+      * ¶ The Names.
 
-1. ¶ The Description.
+      * ¶ The Temperature and Vertues.
 
-1. ¶ The Description.
+    _ CHAP. 94. Of the Peach tree.
 
-1. ¶ The Temperature and Vertues.
+      * ¶ The Kindes.
 
-1. ¶ The Description.
+      * ¶ The Description.
 
-1. ¶ The Description.
+      * ¶ The Place.
 
-1. ¶ The Faculties out of Dioscorides.
+      * ¶ The Time.
 
-1. Hieracium medio nigrum flore maiore Boelij.
+      * ¶ The Names.
 
-1. Hieracium medio nigrum flore minore Boelij:
+      * ¶ The Temperature and Vertues.
 
-1. Hieracium lanosum
+    _ CHAP. 95. Of the Aprecocke or Abrecocke tree.
 
-1. Blitum spinosum: est Beta Cretica semine aculeato Baubini Matth. pag. 371.
+      * ¶ The Description.
 
-1. Geranij Baeticae species Boelij.
+      * ¶ The Place.
 
-1. Antirrhinum minus flore Linariae luteum inscriptum.
+      * ¶ The Time.
 
-1. Linaria minor aestiua.
+      * ¶ The Names.
 
-1. Scorpioides multiflorus 〈◊〉.
+      * ¶ The Temperature and Vertues.
 
-1. Scorpioides siliquacrassa Boelij.
+    _ CHAP. 96. Of Pomegranat tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 97. Of the Quince Tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 98. Of the Medlar Tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 99. Of the Peare tree.
+
+      * ¶ The Description.
+
+      * ¶ The generall description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 100. Of the wilde Peare tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The generall Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 101. Of the Apple tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 102 Of the Wilding or Crab tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The generall Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 103. Of the Citron, Limon, Orange, and Assyrian Apple trees.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 104. Of the Cornell tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 105. Of the female Cornell or Dog-Berry tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 106. Of Spindle tree or Pricke-wood.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 107. Of the blacke Aller tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 108. Of the Seruice tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 109. Of the Ash tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 110. Of the wilde Ash, otherwise called Quicke-Beame or Quicken tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 111. Of Coriars Sumuch.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 112. Of red Sumach.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 113. Of the Alder Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 114. Of the Birch tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 115. Of the Hornebeame, or Hard beame Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 116. Of the Elme tree.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 117. Of the Line or Linden Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 118. Of the Maple tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 119. Of the Poplar tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 120. Of the Plane tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 121. Of the Wayfaring Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 122. Of the Beade tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 123. Of the Lote, or Nettle tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 124. Of Italian wood of Life, or Pocke wood, vulgarly called Lignum vitae.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 125. Of the Strawberry tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 126. Of the Plum tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 127. Of Sebesten, or the Assyrian Plum.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 128. Of the Indian Plums, or Mirobalans.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place and Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 129. Of the Juiube tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 130. Of the Cherrie Tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 131. Of the Mulberrie tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 132. Of the Sycomore tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 133. Of the Fig tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 134. Of the prickly Indian Fig tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 135. Of the arched Indian Fig tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 136. Of Adams Apple tree, or the West-Indian Plantaine.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 137. Of the Date tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 138. Of the wilde Date trees.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 139. Of the drunken Date tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place, Time, and Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 140. Of the Indian Nut tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues and vse.
+
+    _ CHAP. 141. Of the Dragon Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 142. Of the Sassafras, or Ague tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 143. Of the Storax tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 144. Of the Sorrowfull tree or Indian Mourner.
+
+      * ¶ The Description.
+
+      * ¶ The Place, Time, and Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 145. Of the Balsam tree.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 146. Of a kinde of Balme, or Balsame Tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 147. Of the Canell, or Cinnamon tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 142. Of Gum Lacke and his rotten tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 149. Of the Indian leafe.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 150. Of the Cloue tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 151. Of the Nutmeg tree.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 152. Of the Pepper Plant.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 153. Of bastard Pepper, called Betle, or Betre.
+
+      * ¶ The 〈◊〉.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Vse and Temperature.
+
+    _ CHAP. 154. Of Graines, or Graines of Paradise.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 155. Of Yucca or Jucca.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+    _ CHAP. 156. Of the fruit Anacardium, and Caious, or 〈◊〉.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 157. Of Indian Morrice Bells, and diuers other Indian Fruits.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names and Vse.
+
+    _ CHAP. 158. Of the vomiting and purging Nuts.
+
+      * ¶ The Description.
+
+      * ¶ The Place and Time.
+
+      * ¶ The Names.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 159. Of diuers sorts of Indian fruits.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+    _ CHAP. 160. Of Sun-Dew, Youth woort, Ros Solis.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 161. Of Mosse of trees.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 162. Of ground Mosse.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 163. Of Liuerwort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 164. Of Lung-wort, or wood Liuer-wort, and Oister-greene.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time and Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues:
+
+    _ CHAP. 165. Of Sea Mosse, or Coralline.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 166. Of Corall.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 167. Of Mushrumes, or Toadstooles.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 168. Of great Tooth-wort, or Clownes Lung-wort.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 166. Of Saunders.
+
+      * ¶ The Kindes.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+      * ¶ The Names.
+
+      * ¶ The Temperature.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 170. Of Stony wood, or wood made Stones.
+
+      * ¶ The Description.
+
+    _ CHAP. 171. Of the Goose tree, Barnacle tree, or the tree bearing Geese.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Time.
+
+1. AN APPENDIX OR ADDITION OF certaine Plants omitted in the former Historie.
+
+    _ The Preface.
+
+    _ CHAP. 1. Of the Maracoc or Passion-floure.
+
+      * ¶ The Description.
+
+    _ CHAP. 2. Of Ribes or red Currans.
+
+      * ¶ The Description.
+
+      * ¶ The Place, Time, and Names.
+
+      * The Temperature and Vertues.
+
+    _ CHAP. 3. Of Parsley Breake-stone, and bastard Rupturewort.
+
+      * ¶ The Description.
+
+    _ CHAP. 4. Of Heath Spurge and Rocke Rose
+
+      * ¶ The Description.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 5. Of Bastard dwarfe Box.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+    _ CHAP. 6. Of Winged Bind weed, or Quamoclit
+
+      * ¶ The Description.
+
+    _ CHAP. 7. Of the sensitiue Herbe.
+
+      * ¶ The Description.
+
+    _ CHAP. 8. Of the Staffe tree, and euer-greene Priuet.
+
+      * ¶ The Description.
+
+    _ CHAP. 9. Of Mocke-Willow.
+
+      * ¶ The Description.
+
+    _ CHAP. 10. Of the Strawberry-Bay.
+
+      * ¶ The Description.
+
+    _ CHAP. 11. Of the Cherry-Bay.
+
+      * ¶ The Description.
+
+    _ CHAP. 12. Of the Euer-greene Thorne.
+
+      * ¶ The Description.
+
+    _ CHAP. 13. Of the Aegyptian Nap, or great 〈◊〉 tree.
+
+      * ¶ The Description.
+
+      * ¶ The Vertues out of Alpinus. 
+
+    _ CHAP. 14. Of the Persian Plum.
+
+      * ¶ The Description.
+
+    _ CHAP. 15. Of Gesners wilde Quince.
+
+      * ¶ The Description.
+
+    _ CHAP. 16. Of Tamarindes.
+
+      * ¶ The Description.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 17. Of the Mamoera, the Male and Female.
+
+      * ¶ The Description.
+
+    _ CHAP. 18. Of the Cloue-Berry Tree.
+
+      * ¶ The Description.
+
+    _ CHAP. 19. Of Guaiacum, or Indian, Pock-wood.
+
+      * ¶ The Description.
+
+      * The Temperature and Vertues.
+
+    _ CHAP. 20. Of the Guayaua, or Orange-Bay.
+
+      * ¶ The Description.
+
+    _ CHA. 21. Of the Corall tree.
+
+      * ¶ The Description.
+
+    _ CHAP. 22. Of the sea Lentill.
+
+      * ¶ The Description.
+
+    _ CHAP. 23. Of the Sea Feather.
+
+      * ¶ The Description.
+
+      * ¶ The Place.
+
+      * ¶ The Names.
+
+      * ¶ The Vertues.
+
+    _ CHAP. 24. Of the Sea Fan.
+
+      * ¶ The Description.
+
+    _ CHAP. 25. Of China, and Bastard China.
+
+      * ¶ The Description.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 26. Of Costus.
+
+      * ¶ The 〈◊〉.
+
+      * ¶ The Temperature and Vertues out of the Antients.
+
+    _ CHAP. 27. Of Drakes root, or Contra-yerua.
+
+      * ¶ The Description.
+
+    _ CHAP. 28. Of Lignum Aloes.
+
+      * ¶ The Description.
+
+      * ¶ The Temperature and Vertues.
+
+    _ CHAP. 29. Of Gedwar.
+
+      * ¶ The Description.
+
+    _ CHAP. 30. Of Rose-wood.
+
+      * ¶ The Description.
+
+      * ¶ The Faculties out of Dioscorides.
+
+      * Hieracium medio nigrum flore maiore Boelij.
+
+      * Hieracium medio nigrum flore minore Boelij:
+
+      * Hieracium lanosum
+
+      * Blitum spinosum: est Beta Cretica semine aculeato Baubini Matth. pag. 371.
+
+      * Geranij Baeticae species Boelij.
+
+      * Antirrhinum minus flore Linariae luteum inscriptum.
+
+      * Linaria minor aestiua.
+
+      * Scorpioides multiflorus 〈◊〉.
+
+      * Scorpioides siliquacrassa Boelij.
 Cyperus Indicus, siue Curcuma. Turmericke. Pag. 33. Lib. 1. 〈◊〉.〈◊〉Iuncus minor capitulis Equiseti. 
 #####Back#####
-The herball or Generall historie of plantes. Gathered by Iohn Gerarde of London Master in Chirurgeri
+
+1. INDEX LATINVS STIRPIVM IN HOC opere descriptarum necnon nomina quaedam Graeca, Arabica, Barbara, &c.
+
+1. NOMINVM ET OPINIONVM HARmonia & consensus.
+
+1. A Table of such English names as are attributed to the Herbes, Shrubs, and Trees mentioned in this Historie.
+
+1. A Supplement or Appendix vnto the generall Table, and to the Table of English Names, gathered out of antient written and printed Copies, and from the mouthes of plaine and simple country people.
+
+1. A Catalogue of the British Names of Plants, sent me by Master Robert Dauyes of Guissaney in Flint-Shire.
+
+1. A TABLE, WHEREIN IS CONTAINED THE NATVRE AND VERTVES OF ALL THE Herbes, Trees, and Plants, described in this present Herbal.
+
+1. Errata.
+
 **Types of content**
 
   * There are 365 **verse** lines!
